@@ -25,11 +25,7 @@ define(['character'], function(Character) {
     
         "villagegirl": [
             "Hi there, adventurer!",
-            "How do you like this game?",
-            "It's all happening in a single web page! Isn't it crazy?",
-            "It's all made possible thanks to WebSockets.",
-            "I don't know much about it, after all I'm just a program.",
-            'Why don&#x27;t you read this <a target="_blank" href="http://hacks.mozilla.org/2012/03/browserquest/">blog post</a> and learn all about it?'
+            "Too many rats in this village..."
         ],
     
         "villager": [
@@ -128,10 +124,8 @@ define(['character'], function(Character) {
             "Good luck."
         ],
         
-        "octocat": [
-            "Welcome to BrowserQuest!",
-            "Want to see the source code?",
-            'Check out <a target="_blank" href="http://github.com/nenuadrian/BrowserQuest">the repository on GitHub</a>'
+        "octocat": [            
+            'This is not the web page you are looking for...'
         ],
         
         "coder": [
